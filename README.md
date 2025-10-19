@@ -190,6 +190,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 If you want to contact me, you can reach me through below handles. <br />
 (https://github.com/prajakta-08)
+(www.linkedin.com/in/prajakta-pawar-387ab6255)
 
 
 
