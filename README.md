@@ -119,7 +119,8 @@ its Fully Responsive web application that allows you to Watch your favourite awa
 
 ## Movie Page
 
-<img src="./client/src/assets/userdashboard.png">
+<img src="/assets/userdashboard.png" alt="User Dashboard" />
+
 <br />
 
 ## New & Popluar Shows/movies Page
